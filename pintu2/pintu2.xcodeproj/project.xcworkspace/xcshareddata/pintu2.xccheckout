@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C139A42-53D9-43B9-A07F-8FD35CD146C1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>pintu2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>13E82238-9B83-4491-899C-2C1B633754AF</key>
+		<string>https://github.com/q470/fanggepintu</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>pintu2/pintu2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>13E82238-9B83-4491-899C-2C1B633754AF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/q470/fanggepintu</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>13E82238-9B83-4491-899C-2C1B633754AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>13E82238-9B83-4491-899C-2C1B633754AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fanggepintu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
